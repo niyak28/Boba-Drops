@@ -1,0 +1,14 @@
+body{
+    background-color: lightpink;
+    text-align: center;   
+}
+
+img {
+    border-radius: 20px;
+}
+
+#main-title {
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 2px, 2px, #ffcccc;
+}
